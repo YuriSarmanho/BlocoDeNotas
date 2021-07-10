@@ -4,4 +4,5 @@ backend x frontend
 Tarefa 10/07
  -> descobrir como pegar os dados da task (linha 22 do arquivo app.js) e enviar pro servidor via vanilla javascript
     - Requisição HTTP
+    - conversa entre client e servidor
        - Dúvidas?
