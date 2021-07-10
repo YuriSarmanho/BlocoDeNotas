@@ -3,7 +3,7 @@ export default class ListItem {
         const listItem =
             `<li>
                 <input type="checkbox" ${task.status ? 'checked' : ''}>${task.title}
-            </li > `;
+            </li >`;
         const div = document.createElement('div');
         div.innerHTML = listItem;
         return div.firstChild;

@@ -1,0 +1,7 @@
+backend x frontend
+-> salvar esses dados enviando ele pro servidor
+
+Tarefa 10/07
+ -> descobrir como pegar os dados da task (linha 22 do arquivo app.js) e enviar pro servidor via vanilla javascript
+    - Requisição HTTP
+       - Dúvidas?
